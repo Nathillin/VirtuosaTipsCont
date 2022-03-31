@@ -58,7 +58,14 @@ body{
     max-width: 10000px;
 
 }
-
+.fondonav a{
+    margin: 0 1.8rem;
+    position: relative;
+    top: 70%;
+    left: 17%;
+    text-decoration: none;
+    color: white;
+}
 .fondonav p{
     margin: 0 1.8rem;
     position: relative;
@@ -260,10 +267,6 @@ ul {
 }
 
 /* CONTACT INFO */
-.contact-info {
-    /* background: #9A8975; */
-}
-
 .contact-info i {
     color: #AA95C7;
 }
@@ -275,8 +278,6 @@ ul {
     line-height: 22px;
     color: #9A8975;
 }
-
-
 
 /*----------------------------------------------------*/
 
